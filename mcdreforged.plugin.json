@@ -1,0 +1,17 @@
+{
+    "id": "vanilla_team_handler",
+    "version": "0.0.1",
+    "name": "VanillaTeamHandler",
+    "description": {
+        "en_us": "A handler for MCDReforged to parse chat messages from team members.",
+        "zh_cn": "用于解析队伍成员的聊天消息的MCDReforged服务端处理器。"
+    },
+    "author": "Mooling0602",
+    "link": "https://github.com/Mooling0602/VanillaTeamHandler-MCDR",
+    "dependencies": {
+        "mcdreforged": ">=2.1.0"
+    },
+    "resources": [
+        "lang"
+    ]
+}

@@ -1,0 +1,7 @@
+[project]
+name = "vanilla-team-handler"
+version = "0.0.1"
+requires-python = ">=3.9"
+dependencies = [
+    "mcdreforged>=2.1.0",
+]
