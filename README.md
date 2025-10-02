@@ -37,6 +37,6 @@ For example, use `default` as a team's name, `[Default]` as a team's prefix, and
    **Player side**: e.g.`/team join default`
 
    **Server side**: e.g.`/team join default Steve`
-   > Note: if you want to add all players to the team, e.g. use `/team join default @a`
+   > Note: if you want to add all players to the team, you can use `/team join default @a`
 
 Then this handler will work as expected.
